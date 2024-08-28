@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Bhushan Aswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="![image](https://github.com/user-attachments/assets/5395304f-ef46-4b75-bc60-7f0104bbb034)
+<img align="right" src="![image](https://github.com/user-attachments/assets/5395304f-ef46-4b75-bc60-7f0104bbb034)
 " width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></p>
 
 
