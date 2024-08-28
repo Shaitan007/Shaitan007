@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bharat Bhushan Aswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" width="400" height="400" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
+<img align="right" width="400" height="400" src="https://github.com/Shaitan007/Shaitan007/coding-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaitan007&label=Profile%20views&color=0e75b6&style=flat" alt="shaitan007" /> </p>
