@@ -6,17 +6,13 @@
 #### <div align="center">Welcome to my GitHub profile! I'm an aspiring IT professional with a strong passion for technology and continuous learning. With a BSc in Information Technology and a focus on expanding my skills in web development and IT asset management, I'm constantly working on projects that challenge me to grow.
 </div>  
   
-
-- 
 # 🚀 About Me
-
 - 🎓 **Education:** Bachelor of Science in Information Technology (BSc.IT)
 - 💻 **Skills:** HTML, CSS, JavaScript, IT Asset Management
 - 📚 **Currently Learning:** Advanced JavaScript, GitHub Workflows, and Web Animations
 - 💼 **Career Goals:** Pursuing a career in IT Asset Management & Support and exploring opportunities in Survey Programming
 - 🌍 **Looking to Pursue:** MCA from Europe (online)  
   
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
@@ -63,8 +59,6 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
 
 </td></tr></table>  
 
