@@ -3,11 +3,6 @@
 
 <img align="right" width="400" height="400" src="https://github.com/Shaitan007/Shaitan007/blob/main/coding-typing.gif">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 #### <div align="center">Welcome to my GitHub profile! I'm an aspiring IT professional with a strong passion for technology and continuous learning. With a BSc in Information Technology and a focus on expanding my skills in web development and IT asset management, I'm constantly working on projects that challenge me to grow.
 </div>  
   
@@ -102,12 +97,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shaitan007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
