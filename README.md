@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" width="400" height="400" data-postid="21599707" data-share-method="host" data-aspect-ratio="1" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaitan007&label=Profile%20views&color=0e75b6&style=flat" alt="shaitan007" /> </p>
 
