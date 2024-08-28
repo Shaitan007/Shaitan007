@@ -1,3 +1,4 @@
+<img align="right" width="400" height="400" src="https://github.com/Shaitan007/Shaitan007/blob/main/yo.gif">
 <h1 align="center">Hi 👋, I'm Bharat Bhushan Aswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
