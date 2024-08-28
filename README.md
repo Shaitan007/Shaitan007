@@ -6,7 +6,7 @@
 #### <div align="center">Welcome to my GitHub profile! I'm an aspiring IT professional with a strong passion for technology and continuous learning. With a BSc in Information Technology and a focus on expanding my skills in web development and IT asset management, I'm constantly working on projects that challenge me to grow.
 </div>  
   
-# 🚀 About Me
+ 🚀 About Me
 - 🎓 **Education:** Bachelor of Science in Information Technology (BSc.IT)
 - 💻 **Skills:** HTML, CSS, JavaScript, IT Asset Management
 - 📚 **Currently Learning:** Advanced JavaScript, GitHub Workflows, and Web Animations
