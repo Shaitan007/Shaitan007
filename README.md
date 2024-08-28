@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" src="![image](https://github.com/user-attachments/assets/5395304f-ef46-4b75-bc60-7f0104bbb034)
-" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></p>
+" width="400" height="400" style="" frameBorder="0" class="giphy-embed" allowFullScreen></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaitan007&label=Profile%20views&color=0e75b6&style=flat" alt="shaitan007" /> </p>
